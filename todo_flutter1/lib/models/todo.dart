@@ -22,15 +22,6 @@ class todo {
     print(checked);
   }
 
-  // todo.withoutInfo() {}
-  /* static List<todo> todoList() {
-    return [
-      todo(id: 1, todoText: "Morning Excercise", checked: false),
-      todo(id: 2, todoText: "Morning Excercise2", checked: false),
-      todo(id: 3, todoText: "Morning Excercise3", checked: false),
-      todo(id: 4, todoText: "Morning Excercise4", checked: false),
-      todo(id: 5, todoText: "Morning Excercise5", checked: false),
-      todo(id: 6, todoText: "Morning Excercise6", checked: false),
-    ];
-  }*/
+  
+ 
 }
